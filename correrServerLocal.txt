@@ -4,6 +4,10 @@ POR LO TANTO CADA UNO DEBE INCLUIRLO EN SU COMPU LOCAL MANUALMENTE (COLOCARLO EN
 ----PUEDEN ENCONTRAR EL ARCHIVO .env EN EL NOTION, EN EL APARTADO Backend general (Web Page)----
 
 
+
 1.- Encontrarse en el directorio raíz del repo (backendWebAppComedores)
-2.- correr en la terminal: npm run dev
-3.- Dirigirse a localhost:8080/endpointRequerido
+
+2.- (SOLO SI vas a correr POR PRIMERA VEZ el server en tu compu local) correr en la terminal: npm install
+
+3.- correr en la terminal: npm run dev
+4.- Dirigirse a localhost:8080/firstendpoint
