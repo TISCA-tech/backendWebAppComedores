@@ -1,0 +1,9 @@
+NOTA: EL ARCHIVO .ENV CONTENDRÁ INFORMACIÓN SENSIBLE (API Keys, contraseñas de bases de datos, tokens, etc)
+LO ADECUADO ES QUE ESE ARCHIVO NO SE COMPARTA A TRAVÉS DE GIT (ESTARÁ EN EL .gitignore) POR SEGURIDAD
+POR LO TANTO CADA UNO DEBE INCLUIRLO EN SU COMPU LOCAL MANUALMENTE (COLOCARLO EN LA RAÍZ DEL REPO)
+----PUEDEN ENCONTRAR EL ARCHIVO .env EN EL NOTION, EN EL APARTADO Backend general (Web Page)----
+
+
+1.- Encontrarse en el directorio raíz del repo (backendWebAppComedores)
+2.- correr en la terminal: npm run dev
+3.- Dirigirse a localhost:8080/endpointRequerido
